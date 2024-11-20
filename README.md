@@ -14,7 +14,7 @@ This repository contains a Task Management App API built using FastAPI and Postg
    Clone this repository to your local machine using the following command:
 
 ```bash
-    git clone https://github.com/mmodoucham/fast-api-task-management.git
+    git clone https://github.com/navkaransinghhunjan/Task-Management-System.git
 ```
 
 2. **Install Dependencies:**
