@@ -21,7 +21,7 @@ This repository contains a Task Management App API built using FastAPI and Postg
    Navigate to the project directory and install the required dependencies using pip:
 
 ```bash
-cd fast-api-task-management/
+cd Task-Management-System/
 pip install -r requirements.txt
 ```
 
